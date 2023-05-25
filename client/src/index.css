@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.widget {
+  @apply bg-slate-50 border-slate-400 border shadow-md py-3 px-5 rounded-lg;
+}

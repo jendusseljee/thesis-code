@@ -1,0 +1,60 @@
+{
+	"nsecs": [
+		{
+			"previousUUID": "3",
+			"nextUUID": "4",
+			"signature": {
+				"message": "34",
+				"signature": "-380196f9",
+				"publicKey": {
+					"key": "ygwr1mz5qk"
+				}
+			}
+		},
+		{
+			"previousUUID": "4",
+			"nextUUID": "5",
+			"signature": {
+				"message": "45",
+				"signature": "6494c127",
+				"publicKey": {
+					"key": "ygwr1mz5qk"
+				}
+			}
+		},
+		{
+			"previousUUID": "5",
+			"nextUUID": "6",
+			"signature": {
+				"message": "56",
+				"signature": "12b1947",
+				"publicKey": {
+					"key": "ygwr1mz5qk"
+				}
+			}
+		},
+		{
+			"previousUUID": "6",
+			"nextUUID": "7",
+			"signature": {
+				"message": "67",
+				"signature": "-623e8e99",
+				"publicKey": {
+					"key": "ygwr1mz5qk"
+				}
+			}
+		},
+		{
+			"previousUUID": "7",
+			"nextUUID": "3",
+			"signature": {
+				"message": "73",
+				"signature": "51e04bc2",
+				"publicKey": {
+					"key": "ygwr1mz5qk"
+				}
+			}
+		}
+	],
+	"zoneSigningKey": "kq5zm1rwgy"
+}
